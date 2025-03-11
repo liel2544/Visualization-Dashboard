@@ -1,4 +1,5 @@
 # Visualization Dashboard
+<img src="dashboard_visual.webp" alt="Siamese Network Visualization" style="width:60%;">
 
 ## Overview
 
